@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\unrealeditor\\inc\\liquidx_test\\liquidx_test.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\liquidx_testeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\unrealeditor\\development\\liquidx_test\\definitions.liquidx_test.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

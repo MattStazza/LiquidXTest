@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\unrealeditor\\inc\\liquidx_test\\liquidx_testcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\liquidx_testeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\unrealeditor\\development\\liquidx_test\\definitions.liquidx_test.h",
+            "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\source\\liquidx_test\\liquidx_testcharacter.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\unrealeditor\\inc\\liquidx_test\\liquidx_testcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

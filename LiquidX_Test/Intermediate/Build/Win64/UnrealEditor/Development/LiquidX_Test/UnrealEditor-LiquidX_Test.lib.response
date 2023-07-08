@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LiquidX_Test.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\LiquidX_TestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\BP_Jetpack.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\InteractableActor.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\LiquidX_Test.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\LiquidX_TestCharacter.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\LiquidX_TestGameMode.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\BP_Jetpack.gen.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\InteractableActor.gen.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\LiquidX_Test.init.gen.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\LiquidX_TestCharacter.gen.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\LiquidX_TestGameMode.gen.cpp.obj"
+"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\Default.rc2.res"
+/OUT:"D:\Unreal Projects\LiquidXTestRepo\LiquidXTest\LiquidX_Test\Intermediate\Build\Win64\UnrealEditor\Development\LiquidX_Test\UnrealEditor-LiquidX_Test.lib"

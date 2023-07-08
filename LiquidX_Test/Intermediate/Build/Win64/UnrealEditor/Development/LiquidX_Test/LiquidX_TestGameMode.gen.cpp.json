@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\unrealeditor\\inc\\liquidx_test\\liquidx_testgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\liquidx_testeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\unrealeditor\\development\\liquidx_test\\definitions.liquidx_test.h",
+            "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\source\\liquidx_test\\liquidx_testgamemode.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "f:\\unreal engines\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unreal projects\\liquidxtestrepo\\liquidxtest\\liquidx_test\\intermediate\\build\\win64\\unrealeditor\\inc\\liquidx_test\\liquidx_testgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

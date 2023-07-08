@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LiquidX_Test",
+			"Path": "D:\\Unreal Projects\\LiquidXTestRepo\\LiquidXTest\\LiquidX_Test\\Source\\LiquidX_Test.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LiquidX_TestEditor",
+			"Path": "D:\\Unreal Projects\\LiquidXTestRepo\\LiquidXTest\\LiquidX_Test\\Source\\LiquidX_TestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\LiquidXTestRepo\\LiquidXTest\\LiquidX_Test\\Source\\LiquidX_Test\\LiquidX_Test.Build.cs",
+		"D:\\Unreal Projects\\LiquidXTestRepo\\LiquidXTest\\LiquidX_Test\\Source\\LiquidX_Test.Target.cs",
+		"D:\\Unreal Projects\\LiquidXTestRepo\\LiquidXTest\\LiquidX_Test\\Source\\LiquidX_TestEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
